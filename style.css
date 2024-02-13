@@ -1,0 +1,70 @@
+/*! FOR ALL CONTENT GOOGLE FONT CDN   */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+/*! LOGO  GOOGLE FONTS CDN  */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+*{
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+}
+@keyframes returnTopAnimate{
+    0%{opacity: 0;}
+    100%{opacity: 1;}
+}
+@keyframes loading{
+    0%{transform: rotate(0deg);}
+    100%{transform: rotate(360deg);}
+}
+#loading-screen i{
+    animation: loading 1s ease-in infinite ;
+}
+#loading-screen{
+    display: none;
+    z-index: 1500;
+}
+#return-top{
+    z-index: 1000;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    display: none;
+    animation-name:returnTopAnimate ;
+    animation-timing-function: ease-in;
+    animation-duration: 0.3s;
+}
+#return-top a{
+    text-decoration: none;
+}
+#carouselExampleDark{
+    margin-top: 100px;
+
+}
+.carousel-item img{
+    object-fit: contain;
+    height: 600px;
+}
+.navbar-brand,.navbar-brand span{
+    font-family: "Playfair Display", serif;
+}
+
+nav{
+    background-color: #F3F8FF;
+} 
+.social-icons a{
+    width: 40px;
+    height: 40px;
+    color: #F3F8FF;
+    text-decoration: none;
+} 
+.social-icons a:nth-child(1){
+    background-color: #11009E;
+}
+.social-icons a:nth-child(2){
+    background-color: #52D3D8;
+}
+.social-icons a:nth-child(3){
+    background: #833ab4;
+    background: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+}
+.social-icons a:nth-child(4){
+    background-color: #820300;
+}
