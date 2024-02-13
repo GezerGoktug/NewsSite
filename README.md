@@ -1,6 +1,6 @@
 # News Site 📰
 
-**<p>In this project, I created a News Site with HTML, CSS and JavaScript. I used News Api as the news content source in the project. I created a loading animation to make it look nice while the news content is loading. By clicking on the news in the desired category, you can access the news in that category. By clicking on the read more button under the news, you can read the details and You can reach the source of the news.</p>**
+**<p>In this project, I created a News Site with HTML, CSS and JavaScript. I used News Api as the news content source in the project. I created a loading animation to make it look nice while the news content is loading. By clicking on the news in the desired category, you can access the news in that category. By clicking on the read more button under the news, you can read the details and You can reach the source of the news.Appropriate meta tag adjustments, semantic tag settings were made for SEO in the project and it was made mobile compatible.</p>**
 
 
 ## Technologies and Libraries 🛠️
