@@ -22,7 +22,10 @@
 
 
 
-https://github.com/GezerGoktug/NewsSite/assets/146975286/5a0fef1d-a0a7-4c48-9c96-9f9e414f6e64
+https://github.com/GezerGoktug/NewsSite/assets/146975286/dcc6c7ac-1f62-4d25-a1ee-368128938e75
+
+
+
 
 
 <img width="300" src="https://github.com/GezerGoktug/NewsSite/assets/146975286/21be2f93-617b-4dd1-8e16-85ba257a2340" />
